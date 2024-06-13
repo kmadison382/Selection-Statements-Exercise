@@ -5,7 +5,7 @@
         public static void NumberGame(int favNumber)
         {
 
-            Console.WriteLine("I'm thinking of a number between 1 and 10...");
+            Console.WriteLine("I'm thinking of a number between 1 and 1000...");
 
             var userInput = int.Parse(Console.ReadLine());
 
